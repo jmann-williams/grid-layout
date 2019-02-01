@@ -30,12 +30,3 @@ body {
 figure {
   margin: 0;
 }
-
-figcaption {
-  padding: 0;
-}
-
-p {
-  margin: 0;
-  top: 1rem;
-}
